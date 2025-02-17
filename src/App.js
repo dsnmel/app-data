@@ -13,7 +13,7 @@ const Dashboard = () => {
       {/* Sidebar */}
       <aside className="sidebar text-white p-3" style={{ width: "250px", height: "500vh", backgroundColor: "hsl(210, 71.90%, 37.60%)", boxShadow: "0 4px 7px hsl(210, 71.90%, 37.60%)" }}>
         <h5 className="text-warning mb-4">
-          <img src="/logo-report.png" alt="Logo" style={{ width: "150px", height: "auto", marginRight: "10px" }} />
+          <img src="/Logo-report.png" alt="Logo" style={{ width: "150px", height: "auto", marginRight: "10px" }} />
         </h5>
         <ul className="nav flex-column">
           <li className="nav-item">
