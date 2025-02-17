@@ -68,7 +68,7 @@ const GrafikBM = () => {
                 {/* Sidebar */}
                 <div className="sidebar p-3 text-white" style={{ width: "250px", height: "100vh", backgroundColor: "hsl(210, 72%, 38%)" }}>
                     <h5>
-                        <img src="/logo-report.png" alt="Logo" style={{ width: "150px", marginRight: "10px" }} />
+                        <img src="/Logo-report.png" alt="Logo" style={{ width: "150px", marginRight: "10px" }} />
                     </h5>
                     <ul className="nav flex-column">
                         <li className="nav-item">
